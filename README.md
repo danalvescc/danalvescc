@@ -1,20 +1,18 @@
 # Hey, I'm Daniel! 🫡
-<h3 align="left">The Mobile Developer</h3>
+<h3 align="left">Software Engineer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=danalvescc&label=Profile%20views&color=0e75b6&style=flat" alt="danalvescc" />
 
 <br>
-<p>I am a Mobile developer with 5 years of experience working with systems development, MVP, aiming for agile development, seeking to make customers' lives easier with excellent user experience and accessibility.</p>
+<p>I am a Software Engineer with 6 years of experience working with systems development, MVP, aiming for agile development, seeking to make customers' lives easier with excellent user experience and accessibility.</p>
 <br>
 
 
-- 🔭 Currently working at [Visie](https://visie.com.br/)
+- 🔭 Currently working at [Broadway Church](https://bway.ca/)
 
-- 🌱 I am currently perfecting myself in **Swift, IOS**
+- 🌱 I am currently perfecting myself in **React Native, Typescript**
 
 - 👨‍💻 All my projects are in the repositories [https://github.com/danalvescc](https://github.com/danalvescc)
-
-- 💬 Ask me about **React Native, Swift**
 
 - 📫 Contact me at **danalvescc@gmail.com**
 
